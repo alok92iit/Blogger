@@ -1,0 +1,22 @@
+.nav{
+    background-color: rgb(51, 88, 102);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.nav h2{
+    margin: 7px ;
+}
+.nav ul{
+    padding-top: 0px;
+    width: 280px;
+    list-style: none;
+    display :flex;
+    justify-content: space-evenly;
+}
+.nav a{
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
